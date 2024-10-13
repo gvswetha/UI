@@ -1,0 +1,11 @@
+<div class="Frame17" style="width: 1829.91px; height: 1858.39px; left: -10.96px; top: 2148px; position: absolute">
+      <div class="MaskGroup" style="width: 1796px; height: 1003px; left: 0px; top: 156px; position: absolute; transform: rotate(-2deg); transform-origin: 0 0">
+        <div class="Rectangle11" style="width: 1796px; height: 1003px; left: 0px; top: 0px; position: absolute; transform: rotate(-2deg); transform-origin: 0 0; background: linear-gradient(180deg, white 0%, rgba(255, 255, 255, 0) 100%)">
+        <img class="DallE20240714200125AWide3dCartoonIllustrationOfAGroupOfFurryCentralAsianShepherdDogFriendsTheDogsShouldHaveJoyfulExpressionsWithWideSmilesEars1" style="width: 1769.22px; height: 983px; left: 47.54px; top: 988.94px; position: absolute; transform: rotate(-2deg); transform-origin: 0 0" src="/Alabay Assets/Assets/3_.png" />
+      </div>
+       <div class="Ellipse1" style="width: 1545px; height: 45px; left: 137.96px; top: 903px; position: absolute; background: black; box-shadow: 97.30000305175781px 97.30000305175781px 97.30000305175781px; border-radius: 9999px; filter: blur(97.30px); backdrop-filter: blur(27px)"></div>
+      <div class="Ellipse2" style="width: 1545px; height: 67px; left: 137.96px; top: 896px; position: absolute; background: rgba(0, 0, 0, 0.49); box-shadow: 62.20000076293945px 62.20000076293945px 62.20000076293945px; border-radius: 9999px; filter: blur(62.20px); backdrop-filter: blur(27px)"></div>
+      <img class="DallE20240714200125AWide3dCartoonIllustrationOfAGroupOfFurryCentralAsianShepherdDogFriendsTheDogsShouldHaveJoyfulExpressionsWithWideSmilesEars2" style="width: 1769.22px; height: 983px; left: 23.96px; top: 0px; position: absolute" src="/Alabay Assets/Assets/3.png" />
+    </div>  
+    
+    <div class="OurMissionIsToHonorTheHeritageOfTheAlabayByCreatingAVibrantLoyalAndPowerfulCommunityJustAsTheAlabayProtectsItsFlockWeAimToBuildAPackThatStandsStrongTogether" style="width: 1606px; height: 50px; left: 95px; top: 1278px; position: absolute; text-align: center; color: #353535; font-size: 48px; font-family: Kumbh Sans; font-weight: 700; line-height: 50.27px; word-wrap: break-word">Our mission is to honor the heritage of the Alabay by creating a vibrant, loyal, and powerful community. Just as the Alabay protects its flock, we aim to build a pack that stands strong together.</div>

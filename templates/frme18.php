@@ -1,0 +1,26 @@
+<div class="Frame18" style="width: 1645px; height: 723px; left: 76px; top: 3332px; position: absolute; border-radius: 54px; overflow: hidden">
+      <div class="Rectangle13" style="width: 397px; height: 725px; left: 0px; top: -2px; position: absolute; background: linear-gradient(180deg, #DBC70C 0%, rgba(255, 242.31, 128.14, 0) 100%)"></div>
+      <div class="MaskGroup" style="width: 377.05px; height: 505px; left: 16px; top: 161px; position: absolute">
+        <div class="Rectangle18" style="width: 377.05px; height: 505px; left: 0px; top: 0px; position: absolute; background: linear-gradient(to top, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+        <img class="DallE20240715012843AFullBody3dCuteCartoonIllustrationOfAVeryHappyFurryCentralAsianShepherdDogDressedAsAConstructionWorkerTheDogShouldHaveABig3" style="width: 349.54px; height: 485px; left: 8px; top: 9px; position: absolute" src="/Alabay Assets/Assets/big_ 3.png" />
+      </div>
+      <div class="Rectangle14" style="width: 397px; height: 725px; left: 416px; top: -2px; position: absolute; background: linear-gradient(180deg, #00D4D4 0%, rgba(65, 255, 255, 0) 100%)"></div>
+      <div class="MaskGroup" style="width: 377.05px; height: 505px; left: 428px; top: 164px; position: absolute">
+        <div class="Rectangle17" style="width: 377.05px; height: 505px; left: 0px; top: 0px; position: absolute; background: linear-gradient(to top, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+        <img class="DallE20240715013103AFullBody3dCuteCartoonIllustrationOfAVeryHappyFurryCentralAsianShepherdDogDressedInATShirtWithAnAlabayDogPrintedOnItAndWe2" style="width: 373px; height: 593.09px; left: 0px; top: -3px; position: absolute" src="/Alabay Assets/Assets/we2.png" />
+      </div>
+      <div class="Rectangle15" style="width: 397px; height: 725px; left: 832px; top: -2px; position: absolute; background: linear-gradient(180deg, #D427FF 0%, rgba(212, 39, 255, 0) 100%)"></div>
+      <div class="MaskGroup" style="width: 377.05px; height: 505px; left: 842px; top: 175px; position: absolute">
+        <div class="Rectangle17" style="width: 377.05px; height: 505px; left: 0px; top: 0px; position: absolute; background: linear-gradient(to top, white 0%, rgba(255, 255, 255, 0) 100%)"></div>
+        <img class="DallE20240715013253AFullBody3dCuteCartoonIllustrationOfAVeryHappyFurryCentralAsianShepherdDogCelebratingWithATrophyTheDogShouldHaveABigSmileA1" style="width: 393.92px;height: 493.92px;left: -12.20px;top: -3px; position: absolute" src="/Alabay Assets/Assets/a1.png" />
+      </div>
+      <div class="Rectangle16" style="width: 397px; height: 725px; left: 1248px; top: -2px; position: absolute; background: linear-gradient(180deg, #8F3A3C 0%, rgba(143, 58, 60, 0) 100%)"></div>
+      <div class="MaskGroup" style="width: 377.05px; height: 505px; left: 1258px; top: 166px; position: absolute">
+      <div class="Rectangle17" style="width: 377.05px; height: 505px; background: linear-gradient(to top, white 25%, rgba(255, 255, 255, 0) 100%);">
+        <img class="DallE20240715013329AFullBody3dCuteCartoonIllustrationOfAVeryHappyFurryCentralAsianShepherdDogDressedInAVikingOutfitTheDogShouldHaveABigSmile1" style="width: 373.44px; height: 473.44px; left: -12.72px; top: -3px; position: absolute" src="/Alabay Assets/Assets/smile_1.png" />
+      </div></div>
+      <div class="CommunityBuildingAndInitialLaunch" style="width: 428px; left: -12px; top: 21px; position: absolute; text-align: center"><span style="color: white; font-size: 40px; font-family: Montserrat; font-weight: 900; word-wrap: break-word">Community Building</span><span style="color: white; font-size: 32px; font-family: Montserrat; font-weight: 900; word-wrap: break-word"> <br/>and Initial Launch</span></div>
+      <div class="MerchandiseStoreLaunch" style="width: 517.58px; left: 356.21px; top: 21px; position: absolute; text-align: center"><span style="color: white; font-size: 48.37px; font-family: Montserrat; font-weight: 900; word-wrap: break-word">Merchandise <br/></span><span style="color: white; font-size: 38.70px; font-family: Montserrat; font-weight: 900; word-wrap: break-word">Store Launch</span></div>
+      <div class="CommunityEventsAndContests" style="width: 517.58px; height: 118px; left: 771px; top: 24px; position: absolute; text-align: center"><span style="color: white; font-size: 40px; font-family: Montserrat; font-weight: 900; line-height: 45.84px; word-wrap: break-word">Community<br/>Events<br/></span><span style="color: white; font-size: 32px; font-family: Montserrat; font-weight: 900; line-height: 36.67px; word-wrap: break-word">and contests</span></div>
+      <div class="ExpansionAndNewFeatures" style="width: 517.58px; height: 118px; left: 1184px; top: 28px; position: absolute; text-align: center"><span style="color: white; font-size: 40px; font-family: Montserrat; font-weight: 900; line-height: 45.84px; word-wrap: break-word">Expansion <br/>and New <br/></span><span style="color: white; font-size: 32px; font-family: Montserrat; font-weight: 900; line-height: 36.67px; word-wrap: break-word">Features</span></div>
+    </div>
