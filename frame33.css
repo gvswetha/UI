@@ -1,0 +1,202 @@
+/* General Reset */
+.PcFrame {
+  width: 90vw;
+  height: 15360px;
+  position: relative;
+  border-radius: 40px;
+  overflow: hidden;
+}
+
+.Rectangle1 {
+  width: 100%;
+  height: 15218px;
+  background: white;
+  border-radius: 40px;
+}
+
+.Line3 {
+  width: 231px;
+  border: 29px #FFF6A1 solid;
+}
+
+.Rectangle2 {
+  width: 100%;
+  height: 1184.95px;
+  transform: rotate(6deg);
+  background: radial-gradient(116.38% 119.79% at 38.70% -889.92%, #FFF280 0%, #FFC700 100%);
+  border-radius: 40px;
+}
+
+/* Additional styles for other elements */
+
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Main Content Section */
+.main-content {
+  position: relative;
+  width: 100vw; /* Full viewport width */
+  height: 100vh; /* Full viewport height */
+  background-color: #2E333E;
+}
+
+.BackgroundImage {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+/* Button to open and close the frame */
+#toggleFrameBtn {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* Main Page Content */
+.Rectangle37 {
+  width: 100%; /* Full width */
+  height: auto;
+  background: #181C27;
+}
+
+.WhereTheLegendaryCentralAsianShepherdDogMeetsANewAgeAdventureJoinUsInCelebratingTheStrengthLoyaltyAndHeritageOfTheAlabayBreed {
+  text-align: center;
+  color: white;
+  font-size: 4vw; /* Dynamic font size */
+  font-family: CHEESEBURGA;
+  word-wrap: break-word;
+  padding: 20px;
+}
+
+span {
+  display: block; /* To ensure words wrap */
+}
+
+/* Overlay frame */
+.Frame33 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw; /* Full viewport width */
+  height: 100vh; /* Full viewport height */
+  background: rgba(0, 0, 0, 0.8);
+  display: none; /* Hidden by default */
+  z-index: 1000; /* On top of everything */
+}
+
+/* Close Button */
+#closeFrame {
+  font-size: 24px;
+  background: none;
+  border: none;
+  color: white;
+}
+
+/* PC Frame Content */
+.PcFrame {
+  width: 90vw; /* 90% of viewport width */
+  height: auto;
+  position: relative;
+  border-radius: 40px;
+  overflow: hidden;
+  margin: 5vh auto; /* Center the frame vertically */
+  background: white;
+}
+
+.Rectangle1 {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  background: white;
+  border-radius: 40px;
+}
+
+.Line3 {
+  width: 10vw; /* Relative width */
+  height: 0;
+  border: 2vw #FFF6A1 solid;
+  position: absolute;
+  top: 5vh;
+  left: 40vw; /* Relative to center */
+}
+
+/* Adjust the rotated elements */
+.Rectangle2, .Rectangle3, .Rectangle4, .Rectangle5 {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  transform: rotate(6deg);
+  background: radial-gradient(116.38% 119.79% at 38.70% -889.92%, #FFF280 0%, #FFC700 100%);
+  border-radius: 40px;
+}
+
+.Rectangle2 {
+  top: -15vh;
+}
+
+.Rectangle3 {
+  top: 30vh;
+}
+
+.Rectangle4 {
+  top: 60vh;
+}
+
+.Rectangle5 {
+  top: 90vh;
+}
+
+/* Frame2 inside PcFrame */
+.Frame2 {
+  width: 50vw;
+  height: auto;
+  position: absolute;
+  top: 10vh;
+  left: 5vw;
+}
+
+/* Media Queries for responsiveness */
+@media (max-width: 768px) {
+  .WhereTheLegendaryCentralAsianShepherdDogMeetsANewAgeAdventureJoinUsInCelebratingTheStrengthLoyaltyAndHeritageOfTheAlabayBreed {
+    font-size: 5vw;
+  }
+
+  .PcFrame {
+    width: 95vw; /* Slightly smaller on tablets */
+  }
+
+  .Frame2 {
+    width: 70vw;
+  }
+
+  .Line3 {
+    width: 20vw; /* Adjust for smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .WhereTheLegendaryCentralAsianShepherdDogMeetsANewAgeAdventureJoinUsInCelebratingTheStrengthLoyaltyAndHeritageOfTheAlabayBreed {
+    font-size: 6vw; /* Even smaller font for mobile */
+  }
+
+  .PcFrame {
+    width: 100vw; /* Full width on mobile */
+  }
+
+  .Frame2 {
+    width: 85vw;
+  }
+
+  .Line3 {
+    width: 30vw;
+  }
+}
+
+
+
