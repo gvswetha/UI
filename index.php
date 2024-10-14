@@ -67,7 +67,7 @@ body.scroll-lock {
     <img class="BackgroundImage" style="width: 100%; height: 100%; position: absolute;" src="/Alabay Assets/Assets/image.png"/>
 
     <!-- Button to trigger the frame -->
-    <button id="toggleFrameBtn" style="position: absolute; bottom: 120px; left: 50%; transform: translateX(-50%);" onclick="togglePcFrame()">&#8593; Open Frame</button>
+    <button id="toggleFrameBtn" style="position: absolute; width: 591px; height: 0px; border: 29px #FFF6A1 solid; bottom: 110px; left: 50%; color:#FFF6A1; transform: translateX(-50%);" onclick="togglePcFrame()">&#8593; Open Frame</button>
     
     <!-- Main Page Content -->
     <div class="Rectangle37" style="width: 1920px; height: 242px; background: #181C27"></div>
@@ -91,7 +91,7 @@ body.scroll-lock {
   <!-- The overlay frame that will cover the entire page -->
   <div class="Frame33" id="frame33">
     <!-- Close Button -->
-    <button id="closeFrame" style="position: absolute; top: 20px; right: 20px; font-size: 24px; background: none; border: none; color: white;" onclick="togglePcFrame()">&#8595; Close</button>
+    <button id="closeFrame" style="position: absolute;top: 202px;left: 50%;width: 195px;font-size: 24px;background: #fff6a1;border: 29px #FFF6A1 solid;color: #FFF6A1;z-index: 5;height: 2px;border-radius: 16px;" onclick="togglePcFrame()">&#8595; Close</button>
      <!-- <div class="PcFrame" style="width: 90vw; height: 15360px; position: relative; border-radius: 40px; overflow: hidden;">
     <div class="Rectangle1" style="width: 100%; height: 15218px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 40px"></div>
     <div class="Line3" style="width: 231px; height: 0px; left: calc(50% - 115.5px); top: 61px; position: absolute; border: 29px #FFF6A1 solid"></div> 
@@ -109,10 +109,10 @@ body.scroll-lock {
   
       <div class="MaskGroup" style="width: 965.38px; height: 940px; left: 0px; top: 694.88px; position: absolute">
         <!-- <div class="Rectangle3" style="width: 965.38px; height: 940px; left: 0px; top: 0px; position: absolute;"><img style="width: 965.38px; height: 940px; left: 0px; top: 0px; position: absolute;" src="/Alabay Assets/Assets/2_.png"></div> -->
-        <img class="DallE20240714164005A3dCartoonIllustrationOfAFurryCentralAsianShepherdDogJumpingHappilyInTheAirTheDogShouldHaveAJoyfulExpressionWithAWideSmile1" style="width: 962.56px; height: 962.56px; left: 2.82px; top: 959.74px; position: absolute" src="" />
+        <img class="DallE20240714164005A3dCartoonIllustrationOfAFurryCentralAsianShepherdDogJumpingHappilyInTheAirTheDogShouldHaveAJoyfulExpressionWithAWideSmile1" style="width: 962.56px; height: 962.56px; left: 2px;top: 4px; position: absolute" src="/Alabay Assets/Assets/2_.png" />
       </div>
       <img class="DallE20240714164005A3dCartoonIllustrationOfAFurryCentralAsianShepherdDogJumpingHappilyInTheAirTheDogShouldHaveAJoyfulExpressionWithAWideSmile2" style="width: 996.01px; height: 996.01px; left: -15.63px; top: -26.04px; position: absolute" src="/Alabay Assets/Assets/ 2.png" />
-      <div class="HistoryOfAlabay" style="left: 971px; top: -110px; position: absolute; text-align: right"><span style="color: rgba(246.91, 104.66, 1.65, 0.82); font-size: 100.05px; font-family: Montserrat;font-weight: 900; line-height: 104.78px; word-wrap: break-word">History Of<br/></span><span style="color: white; font-size: 220px; font-family: CHEESEBURGA; font-weight: 400; line-height: 257.39px; word-wrap: break-word">ALABAY</span></div>
+      <div class="HistoryOfAlabay" style="left: 886px; top: -110px; position: absolute; text-align: right"><span style="color: rgba(246.91, 104.66, 1.65, 0.82); font-size: 100.05px; font-family: Montserrat;font-weight: 900; line-height: 104.78px; word-wrap: break-word">History Of<br/></span><span style="color: white; font-size: 220px; font-family: CHEESEBURGA; font-weight: 400; line-height: 257.39px; word-wrap: break-word">ALABAY</span></div>
     </div>
     <div class="Frame4" style="left: 684px; top: 1173px; position: absolute; justify-content: flex-start; align-items: center; gap: 43px; display: inline-flex">
       <div class="All"><a href="#" style="text-align: right; color: #353535; font-size: 32px; font-family: Montserrat; font-weight: 900; line-height: 33.51px; word-wrap: break-word">ALL</div></>
